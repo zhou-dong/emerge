@@ -23,6 +23,8 @@ importers:
 
   packages/core: {}
 
+  packages/models: {}
+
 packages:
 
   '@types/node@22.20.7':
