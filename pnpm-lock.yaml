@@ -15,12 +15,6 @@ importers:
         specifier: ^5.8.0
         version: 5.9.3
 
-  apps/api:
-    dependencies:
-      '@emerge/core':
-        specifier: workspace:*
-        version: link:../../packages/core
-
   apps/game:
     dependencies:
       '@babylonjs/core':
