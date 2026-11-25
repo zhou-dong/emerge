@@ -3,6 +3,6 @@
   "references": [
     { "path": "packages/models" },
     { "path": "packages/core" },
-    { "path": "packages/app" }
+    { "path": "apps/api" }
   ]
 }
