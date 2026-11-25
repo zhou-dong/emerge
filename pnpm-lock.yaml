@@ -15,11 +15,11 @@ importers:
         specifier: ^5.8.0
         version: 5.9.3
 
-  packages/app:
+  apps/api:
     dependencies:
       '@emerge/core':
         specifier: workspace:*
-        version: link:../core
+        version: link:../../packages/core
 
   packages/core: {}
 
