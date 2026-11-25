@@ -5,8 +5,7 @@
   "scripts": {
     "build": "tsc -b",
     "clean": "tsc -b --clean",
-    "typecheck": "tsc -b",
-    "start": "node apps/api/dist/index.js"
+    "typecheck": "tsc -b"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
